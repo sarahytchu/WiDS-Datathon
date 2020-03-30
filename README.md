@@ -5,10 +5,13 @@ The challenge is the create a model that uses data from the first 24 hours of in
 
 
 ## Data Descriptions
-
-### Hands on / interactive learning
 - training_v2.csv 
 - unlabeled.csv
+
+
+
+
+
 
 ### Purely text based resources
 * [Git: No Deep Sh*t](http://rogerdudler.github.io/git-guide/) A super simplified way of explaining git, basically a cheatsheet.
