@@ -8,10 +8,11 @@ The challenge is to create a model that uses data from the first 24 hours of int
 
 
 #### training_v2.csv 
-- 
+The training data set with 91,713 encounters. Please view WiDS Datathon 2020 Dictionary here for columns' definitions.
 
 #### unlabeled.csv
 - 
+
 
 
 The Git Flow
@@ -105,29 +106,4 @@ Instead, you will create ***feature branches*** on your machine that exist for t
 
 This last command creates a new branch named "my-feature-branch" based off of develop. You can name that branch whatever you like. You should not have to push it to Github unless you intend to work on multiple machines on that feature.
 
-Make changes.
 
-	git add .
-	git commit -am "I have made some changes."
-
-This adds any new files to be tracked and makes a commit. Now let's add them to develop.
-
-	git checkout develop
-	git merge --no-ff my-feature-branch
-	git push origin develop
-
-Releasing
-------------
-Finished with your project?
-
-- Create a feature branch as normal.
-- Update the version history in the README.md file
-- Update this to develop as normal.
-
-		git checkout master
-		git merge --no-ff develop
-		git push origin master
-		git tag v1.0.0
-		git push origin v1.0.0
-
-Replace 1.0.0 in the snippet here with your appropriate versions. Now you have a tag saved.
