@@ -8,7 +8,7 @@ The challenge is to create a model that uses data from the first 24 hours of int
 
 
 #### training_v2.csv 
-The training data set with 91,713 encounters. Please view WiDS Datathon 2020 Dictionary here for columns' definitions.
+The training data set with 91,713 encounters. Please view WiDS Datathon 2020 Dictionary.csv for the columns' definitions
 
 #### unlabeled.csv
 - 
