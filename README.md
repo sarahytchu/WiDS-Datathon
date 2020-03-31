@@ -15,13 +15,18 @@ The challenge is to create a model that uses data from the first 24 hours of int
 * **WiDS ICU** - Python file with EDA and Machine Learning models for predicting the ICU survival rate
 
 ## Project Workflow
-* **Inspect the dataset** - Determine the major characteristics (data types, 
-* **EDA** - Data Cleaning: Update column names and fill missing values
+
+* **Exploratory Data Analysis** 
+  * Data Inspection (size of data, data types, percentage of missing values
   * Data Cleaning
-  (1) Update the column 
+  (1) Update column names
   (2) Filling missing 
+  
+ * Data Insights
 
-## Exploratory Data Analysis
-
-## Models - create models around the scenarios we've created
+## Models
+Based on the data insights, we used XGBoost algorithm to make predictions for the following scenarios:
+* **Model One**
+* **Model Two**
+* **Model Three*
 
