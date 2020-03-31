@@ -17,16 +17,13 @@ The challenge is to create a model that uses data from the first 24 hours of int
 ## Project Workflow
 
 * **Exploratory Data Analysis** 
-  * Data Inspection (size of data, data types, percentage of missing values
+  * Data Inspection (data size, data types, percentage of missing values)
   * Data Cleaning
   (1) Update column names
-  (2) Filling missing 
-  
- * Data Insights
-
-## Models
-Based on the data insights, we used **XGBoost algorithm** to make predictions for the following scenarios:
-* **Model One**
-* **Model Two**
-* **Model Three**
+  (2) Fill in missing values 
+  * Data Insights
+* **Data Modeling** - Based on the data insights, we used **XGBoost algorithm** to predict the following scenarios:
+  * *Model One*
+  * *Model Two*
+  * *Model Three*
 
