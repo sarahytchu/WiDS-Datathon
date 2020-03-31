@@ -7,11 +7,11 @@ The challenge is to create a model that uses data from the first 24 hours of int
 ## Data Descriptions
 
 
-#### training_v2.csv 
-The training data set with 91,713 encounters. Please view WiDS Datathon 2020 Dictionary.csv for the columns' definitions
+* training_v2.csv - The training data set with 91,713 encounters. Please view WiDS Datathon 2020 Dictionary.csv for the columns' definitions
 
-#### unlabeled.csv
-- 
+* unlabeled.csv - The data set does not include hospital deaths variable. We are asked to predict it using the encounters in this file.
+* WiDS Datathon 2020 Dictionary.csv - supplemental information about the data
+
 
 ## Methods
 
