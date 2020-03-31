@@ -23,7 +23,7 @@ The challenge is to create a model that uses data from the first 24 hours of int
   (2) Fill in missing values 
   * Data Insights
 * **Data Modeling** - Based on the data insights, we used **XGBoost algorithm** to predict the following scenarios:
-  * *Model One*
-  * *Model Two*
-  * *Model Three*
+  * *[Name of the First Scenario]*
+  * *[Name of the Second Scenario]*
+  * *[Name of the Third Scenario]*
 
