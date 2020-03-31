@@ -15,9 +15,9 @@ The challenge is to create a model that uses data from the first 24 hours of int
 
 ## Project Workflow
 * **Inspect the dataset**
-* **EDA**
+* **EDA** - Data Cleaning: Update column names and fill missing values
 
 ## Exploratory Data Analysis
 
-## Models
+## Models - create models around the scenarios we've created
 
