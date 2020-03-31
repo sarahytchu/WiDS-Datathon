@@ -13,7 +13,9 @@ The challenge is to create a model that uses data from the first 24 hours of int
 * **WiDS Datathon 2020 Dictionary.csv** - supplemental information about the data
 
 
-## Methods
+## Project Workflow
+* **Inspect the dataset**
+* **EDA**
 
 ## Exploratory Data Analysis
 
