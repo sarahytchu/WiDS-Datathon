@@ -25,8 +25,8 @@ The challenge is to create a model that uses data from the first 24 hours of int
  * Data Insights
 
 ## Models
-Based on the data insights, we used XGBoost algorithm to make predictions for the following scenarios:
+Based on the data insights, we used **XGBoost algorithm** to make predictions for the following scenarios:
 * **Model One**
 * **Model Two**
-* **Model Three*
+* **Model Three**
 
