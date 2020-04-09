@@ -15,7 +15,9 @@ The challenge is to create a model that uses data from the first 24 hours of int
 
 The above three files can be accessed [here](https://www.kaggle.com/c/widsdatathon2020/data).
 
-* **WiDS ICU** - Python file with EDA and Machine Learning models for predicting the ICU survival rate
+* **ICU Survival Summary** - Python file with a summary of each section of the Project Workflow
+* **ICU Survival Full Analysis** - Python file with detailed project workflow
+
 
 ## Project Workflow
 
