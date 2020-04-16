@@ -15,21 +15,4 @@ The challenge is to create a model that uses data from the first 24 hours of int
 
 The above three files can be accessed [here](https://www.kaggle.com/c/widsdatathon2020/data).
 
-* **ICU Survival Summary** - Python file with a summary of each section of the Project Workflow
-* **ICU Survival Full Analysis** - Python file with detailed project workflow
-
-
-## Project Workflow
-
-* **Exploratory Data Analysis** 
-  * Data Inspection (data size, data types, percentage of missing values)
-  * Data Cleaning
-  (1) Update column names
-  (2) Fill in missing values 
-  * Data Profile
-  
-* **Data Modeling** - Based on the data insights, we used **XGBoost algorithm** to predict the following scenarios:
-  * *[Name of the First Scenario]*
-  * *[Name of the Second Scenario]*
-  * *[Name of the Third Scenario]*
-
+* **ICU Survival Analysis** - Python file with full analysis and prediction utilizing the XGBoost Model
